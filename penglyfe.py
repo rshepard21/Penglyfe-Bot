@@ -27,4 +27,4 @@ class Penglyfe(discord.Client):
 			await channel.send('{0} is logged on Penglyfe!'.format(before.name))
 
 client = Penglyfe(intents=intents)
-client.run('ODc4MTYzMjQ2Mjk5ODg1NTY4.YR9LQQ.1XchH0IdZvLtVtlz1p0wffO2Uco')
+client.run('token_goes_here')
